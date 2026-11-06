@@ -10,7 +10,7 @@ This project uses the **IBM Telco Customer Churn dataset**.
 - **Target Variable:** `Churn` (Binary: 0 for No Churn, 1 for Yes Churn).
 
 ## c. Github Repository Link
-**[Insert your GitHub Repository Link Here]** 
+![alt text](image-1.png) 
 
 ## d. Models used
 Five classification models were trained and evaluated. The performance metrics on the test data are summarized below:
